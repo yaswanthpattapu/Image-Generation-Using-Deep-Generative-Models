@@ -1,0 +1,8 @@
+#ignore csv files
+*.csv
+
+#ignore pth files
+*.pth
+
+#ignore dataset folder
+datasets/
